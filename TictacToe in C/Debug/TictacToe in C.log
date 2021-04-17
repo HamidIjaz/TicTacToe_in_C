@@ -1,0 +1,4 @@
+﻿  TicTacToe1.cpp
+c:\users\hamid\desktop\tictactoe in c\tictactoe in c\tictactoe1.cpp(23): warning C4101: 'rowNum': unreferenced local variable
+c:\users\hamid\desktop\tictactoe in c\tictactoe in c\tictactoe1.cpp(24): warning C4101: 'colNum': unreferenced local variable
+  TictacToe in C.vcxproj -> C:\Users\hamid\Desktop\TictacToe in C\Debug\TictacToe in C.exe
